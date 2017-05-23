@@ -13,6 +13,11 @@
 | IDE     |   integrated development environment(集成开发环境) |
 | BOM      |    Byte order Mark(UTF编码方案里用于标识编码的标准标记) |
 | BFC      |    Block Formatting Context(块格式化上下文) |
+| PX      |    px是Pixel的缩写，也是我们图像设计的基本单位。 |
+| EM      |    相对长度单位。相对于当前对象内文本的字体尺寸,默认16px |
+| REM      |    REM表示“Root EM”,指的是html根元素的em大小,默认16px|
+| PPI      |    Pixels per Inch,在设备的1英寸物理长度上可以显示的独立物理像素。|
+| DPI      |    dots per inch ， 直接来说就是一英寸多少个像素点。常见取值 120，160，240。|
 
 
 ## 角色与职责
