@@ -15,5 +15,6 @@
  - [开发阶段](workflow/develop.md)
  - [提测阶段](workflow/to-test.md)
  - [BUG处理阶段](workflow/bug.md)
+ - [发布上线](workflow/release.md)
 * [修订日志](version/README.md)
 * [结束](end/README.md)

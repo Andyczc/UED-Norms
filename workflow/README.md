@@ -4,3 +4,5 @@
 - [开发阶段](develop.md)
 - [提测阶段](to-test.md)
 - [BUG处理阶段](bug.md)
+- [发布上线](release.md)
+
