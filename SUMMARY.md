@@ -8,6 +8,7 @@
  - [Git使用规范](standard/fe/git.md)
  - [标注规范](standard/ui/markup.md)
  - [切图规范](standard/ui/slicing.md)
+ - [数据Mock规范](standard/fe/mock.md)
 
 * [工作流程](workflow/README.md)
  - [原型与需求阶段](workflow/prototype.md)
