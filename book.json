@@ -1,3 +1,24 @@
 {
-    "plugins" : [ "anchor-navigation-ex", "new-flowchart" ]
+    "plugins" : [ "anchor-navigation-ex", "new-flowchart" ],
+    "title": "UED部门规范与工作流程",
+    "language": "zh",
+    "pdf": {
+        "pageNumbers": false,
+
+        "fontSize": 12,
+
+        "paperSize": "a4",
+
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 36,
+            "bottom": 36
+        },
+
+        "headerTemplate": null,
+
+        "footerTemplate": null
+    }
+
 }

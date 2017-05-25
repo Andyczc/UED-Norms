@@ -4,3 +4,4 @@ npm-debug.log
 outbook/
 #_book/
 _book/.gitignore
+book.pdf
