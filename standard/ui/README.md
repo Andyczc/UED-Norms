@@ -28,6 +28,8 @@
 | ![Image text](https://raw.githubusercontent.com/Andyczc/ued-norms-images/master/aoyou.png)<br>遨游     | 24px| 60px | 15px | 1% |
 | ![Image text](https://raw.githubusercontent.com/Andyczc/ued-norms-images/master/sougou.png)<br>搜狗     | 25px | 60px | 15px | 4.47% |
 
+总结：浏览器至少需要兼容谷歌、火狐、IE9+、360极速模式、搜狗极速模式、QQ极速模式
+
 ### 系统分辨率统计
 
 | 分辨率      |    占有率  |    分辨率    |    占有率 |
